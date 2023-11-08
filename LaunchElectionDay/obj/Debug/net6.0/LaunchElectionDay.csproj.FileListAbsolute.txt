@@ -1,0 +1,14 @@
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfoInputs.cache
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfo.cs
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.csproj.CoreCompileInputs.cache
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.exe
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.deps.json
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.runtimeconfig.json
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\refint\LaunchElectionDay.dll
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.genruntimeconfig.cache
+C:\Users\asher\Source\Repos\ElectionDay\LaunchElectionDay\obj\Debug\net6.0\ref\LaunchElectionDay.dll
